@@ -51,7 +51,8 @@
 | `01_create_table.sql` | Table schema — run this first |
 | `02_analysis_queries.sql` | 10 analytical queries with comments |
 
----
+## Schema Overview
+![Schema Diagram](../schema_diagram.png)
 
 ## Related Project Files
 
